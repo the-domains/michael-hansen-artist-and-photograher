@@ -1,6 +1,6 @@
 name: Michael Hansen Artist and Photograher
 favicon: null
-layout_spectrum: 0.039156686048954725
+layout_spectrum: 0.77086
 typography_spectrum: 0.5789047649595886
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#323c48'
+    - '#d7ced1'
+    - '#829292'
+    - '#b17958'
   brandStrength: 0.18172579794190824
-  lightness: 0.047336354153230786
+  lightness: 0.0625
   saturation: 0.4743378725834191
   rhythmicContrast: 0.7935431923251599
 purpose: []
