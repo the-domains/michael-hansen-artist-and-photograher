@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
+        <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Nov 2015 14:40:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Marlene"  Oil on Canvas.  (SOLD)]]></title>
+            <description><![CDATA[<article><h1>"Marlene"  Oil on Canvas.  (SOLD)</h1><p>I am an oil painter.  I attended Art Center College of Design in Pasadena, California.  I was very fortunate to be able to study classical figure drawing with Harry Carmean....a contemporary figure drawing and painting master.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e658ad-faed-4a94-a56d-8beb5375696b.JPG"></article>]]></description>
+            <link>undefinedmarlene-oil-on-canvas-sold/index.html</link>
+            <guid isPermaLink="false">8610a132-5207-49cb-aba2-2b3062576953</guid>
+            <pubDate>Sun, 29 Nov 2015 14:40:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
