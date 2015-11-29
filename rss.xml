@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
         <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-hansen-artist-and-photograher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 21:47:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 21:47:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-hansen-artist-and-photograher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portrait of 'M']]></title>
             <description><![CDATA[<article><h1>Portrait of 'M'</h1><p>                                 MICHAEL HANSEN - Artist and Photographer</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f990b5a7-9f03-4268-8f6d-de0a7412dde6.jpg"></article>]]></description>
-            <link>undefinedportrait-of-m/index.html</link>
+            <link>https://thegrid.ai/michael-hansen-artist-and-photograher/portrait-of-m/index.html</link>
             <guid isPermaLink="false">0dfaca06-95d6-45a5-9fd2-3cef1440fda5</guid>
             <pubDate>Sun, 29 Nov 2015 21:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking of You]]></title>
+            <description><![CDATA[<article><h1>Thinking of You</h1><p>Title:  Thinking of You.  Oil on canvas.  Whereabouts unknow.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e918e32d-3800-408f-91f0-0392cea02d03.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-hansen-artist-and-photograher/thinking-of-you/index.html</link>
+            <guid isPermaLink="false">7d8e24ba-196e-46cd-a2a5-03978819c225</guid>
+            <pubDate>Sun, 29 Nov 2015 21:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
