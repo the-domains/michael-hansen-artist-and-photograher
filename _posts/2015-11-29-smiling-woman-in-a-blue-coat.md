@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oil on Canvas.  This painting is FOR SALE.  To inquire:  Sketch47@hotmail.com'
-datePublished: '2015-11-29T21:52:57.717Z'
-dateModified: '2015-11-29T20:09:19.167Z'
+datePublished: '2015-11-29T22:26:08.292Z'
+dateModified: '2015-11-29T21:52:57.717Z'
 title: Smiling Woman in a Blue Coat
 author: []
 authors: []
