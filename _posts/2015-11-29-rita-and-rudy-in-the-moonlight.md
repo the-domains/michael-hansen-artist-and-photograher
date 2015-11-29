@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oil on Board.  This painting is FOR SALE.  To inquire:  Sketch47@hotmail.com'
-datePublished: '2015-11-29T21:52:22.391Z'
-dateModified: '2015-11-29T19:59:29.995Z'
+datePublished: '2015-11-29T22:26:24.929Z'
+dateModified: '2015-11-29T21:52:22.391Z'
 title: Rita and Rudy in the Moonlight
 author: []
 authors: []
