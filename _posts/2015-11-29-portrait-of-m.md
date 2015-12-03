@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Oil on Canvas. (SOLD)
-datePublished: '2015-12-03T06:50:19.879Z'
-dateModified: '2015-12-03T06:49:50.478Z'
+datePublished: '2015-12-03T07:02:30.831Z'
+dateModified: '2015-12-03T06:50:19.879Z'
 title: "Portrait of 'M'"
 author: []
 sourcePath: _posts/2015-11-29-portrait-of-m.md
