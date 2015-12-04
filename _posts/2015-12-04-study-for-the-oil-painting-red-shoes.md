@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Graphite and red pencils.  The oil painting based on this drawing has SOLD.
-datePublished: '2015-12-04T05:51:17.165Z'
-dateModified: '2015-12-04T05:50:47.407Z'
+datePublished: '2015-12-04T08:48:18.780Z'
+dateModified: '2015-12-04T05:51:17.165Z'
 title: "Study for the Oil Painting 'Red Shoes'"
 author: []
 authors: []
