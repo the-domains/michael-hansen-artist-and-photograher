@@ -1,26 +1,26 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Oil on Canvas.  Whereabouts unknown.
-datePublished: '2015-11-29T21:46:13.888Z'
-dateModified: '2015-11-29T20:01:34.251Z'
+datePublished: '2015-12-04T04:40:45.300Z'
+dateModified: '2015-12-04T04:40:38.141Z'
 title: Thinking of You
 author: []
+sourcePath: _posts/2015-11-29-thinking-of-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-29-thinking-of-you.md
-published: true
 url: thinking-of-you/index.html
-_type: Article
+_type: WebPage
 
 ---
 Title:  Thinking of You.  Oil on canvas.  Whereabouts unknow.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e918e32d-3800-408f-91f0-0392cea02d03.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef3b49df8e6d1f99ee15a023090561f8c5ab21e2.jpg)
