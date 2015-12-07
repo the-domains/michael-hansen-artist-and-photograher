@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital reference photograph.
-datePublished: '2015-12-07T13:01:09.701Z'
-dateModified: '2015-12-07T13:00:42.564Z'
+datePublished: '2015-12-07T13:08:57.073Z'
+dateModified: '2015-12-07T13:06:59.273Z'
 title: "Study for the oil painting 'Thinking of You'"
 author: []
+sourcePath: _posts/2015-12-07-study-for-the-oil-painting-thinking-of-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-07-study-for-the-oil-painting-thinking-of-you.md
-published: true
 url: study-for-the-oil-painting-thinking-of-you/index.html
 _type: WebPage
 
