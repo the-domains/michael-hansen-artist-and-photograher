@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Oil on Canvas.  This painting has been SOLD.
-datePublished: '2015-12-07T12:38:21.837Z'
-dateModified: '2015-12-07T12:38:04.222Z'
+datePublished: '2015-12-07T15:17:29.253Z'
+dateModified: '2015-12-07T15:17:11.113Z'
 title: "Portrait of 'M'"
 author: []
 sourcePath: _posts/2015-12-07-portrait-of-m.md
@@ -23,7 +23,7 @@ _type: Blurb
 
 ---
 Michael Hansen Artist and Photographer
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e103413f7c4e3c660d3de8621b3ce9351253c080.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fee1e5cbb6cb59501d354eeea57d20d3e53bf14d.jpg)
 
 This website contains nudity and ADULT themes.
 
