@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
         <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.hansenartstudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 05:57:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 08:12:54 GMT</lastBuildDate>
+        <atom:link href="http://www.hansenartstudio.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GM2]]></title>
+            <description><![CDATA[<h1>GM2</h1>]]></description>
+            <link>http://www.hansenartstudio.com/gm2/index.html</link>
+            <guid isPermaLink="false">63223c3c-0a5a-43f0-80b8-3aaee57281d1</guid>
+            <pubDate>Wed, 09 Dec 2015 08:12:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gallery Music....]]></title>
-            <description><![CDATA[<article><h1>Gallery Music....</h1><p>the toadies be my angel</p></article>]]></description>
-            <link>undefinedgallery-music/index.html</link>
+            <description><![CDATA[<article><h1>Gallery Music....</h1><p>The Toadies - Be My Angel by cuddlyduddly on #SoundCloud</p></article>]]></description>
+            <link>http://www.hansenartstudio.com/gallery-music/index.html</link>
             <guid isPermaLink="false">ba883f1a-e578-45de-a408-98dd9b413549</guid>
             <pubDate>Wed, 09 Dec 2015 05:56:55 GMT</pubDate>
         </item>
