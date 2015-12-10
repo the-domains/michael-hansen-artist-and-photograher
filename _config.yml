@@ -1,5 +1,8 @@
+name: Michael Hansen Artist and Photograher
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4784946
 title: Michael Hansen - Artist and Photographer
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  brandStrength: 1
-  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#c2c1bc'
     - '#4c2a0f'
     - '#555b57'
     - '#878e86'
-  lightness: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Michael Hansen Artist and Photograher
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4784946
-layout_spectrum: 1
+  brandStrength: 1
+  lightness: 0.1875
+  saturation: 0.6875
+  rhythmicContrast: 0.5
+purpose: []
