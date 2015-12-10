@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Oil on Canvas.  This painting has been SOLD.
-datePublished: '2015-12-10T18:38:05.964Z'
-dateModified: '2015-12-10T18:36:52.790Z'
+datePublished: '2015-12-10T18:43:34.193Z'
+dateModified: '2015-12-10T18:43:16.502Z'
 title: "Portrait of 'M'"
 author: []
 authors: []
