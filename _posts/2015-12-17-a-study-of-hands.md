@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Charcoal and white conte pencils on grey Canson paper.   (My work)
-datePublished: '2015-12-17T19:46:22.299Z'
-dateModified: '2015-12-17T19:45:48.480Z'
+datePublished: '2015-12-17T19:52:42.695Z'
+dateModified: '2015-12-17T19:46:22.299Z'
 title: 'A study of hands.  '
 author: []
 authors: []
