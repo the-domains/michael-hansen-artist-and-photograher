@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
         <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.hansenartstudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 20:06:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 19:36:33 GMT</lastBuildDate>
+        <atom:link href="http://www.hansenartstudio.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
-            <description><![CDATA[<article><h1>Michael Hansen - Artist and Photographer</h1><p>Viewers must be 18 years old to enter.  Nudity and Adult Themes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/563564095f166fcaf574920d4dd503e923ac79e3.jpg"></article>]]></description>
-            <link>undefinedmichael-hansen-artist-and-photographer/index.html</link>
+            <description><![CDATA[<article><h1>Michael Hansen - Artist and Photographer</h1><p>Viewers must be 18 years old to enter.  Nudity and Adult Themes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a24eb546607b274c832c04c6618ceb7b8615ba37.jpg"></article>]]></description>
+            <link>http://www.hansenartstudio.com/michael-hansen-artist-and-photographer/index.html</link>
             <guid isPermaLink="false">b1a4efa7-7b28-4f96-9ffc-079bf34d0bb7</guid>
-            <pubDate>Tue, 22 Dec 2015 20:06:14 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 19:36:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
