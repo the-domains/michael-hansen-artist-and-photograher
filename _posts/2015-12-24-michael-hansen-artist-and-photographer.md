@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Viewers must be 18 to enter.  NUDITY and ADULT themes.
-datePublished: '2015-12-25T03:22:30.022Z'
-dateModified: '2015-12-25T03:22:05.198Z'
+datePublished: '2015-12-27T14:00:48.516Z'
+dateModified: '2015-12-27T14:00:30.779Z'
 title: Michael Hansen - Artist and Photographer
 author: []
 sourcePath: _posts/2015-12-24-michael-hansen-artist-and-photographer.md
@@ -18,9 +19,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: michael-hansen-artist-and-photographer/index.html
-_type: Article
+_type: Blurb
 
 ---
 Michael Hansen - Artist and Photographer
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa94bed-c367-4b6d-b0d1-ac00603255a9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff61cc7ee8e8177f85919547f9086e5779654b0a.jpg)
