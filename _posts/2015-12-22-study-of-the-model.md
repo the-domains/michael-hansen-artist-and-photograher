@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital photo reference.
-datePublished: '2016-01-13T13:08:57.559Z'
-dateModified: '2015-12-22T20:11:16.848Z'
+datePublished: '2016-01-13T13:36:38.085Z'
+dateModified: '2016-01-13T13:36:26.942Z'
 title: Study of the Model
 author: []
 sourcePath: _posts/2015-12-22-study-of-the-model.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Study of the Model.  Digital photo reference.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7c008e757c778a4ccdf477bb03296066bdfe59.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c5c79b965dfa210ef4608f3f8debefa52f4b7cf.jpg)
