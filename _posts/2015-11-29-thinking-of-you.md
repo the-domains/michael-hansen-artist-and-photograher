@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Oil on Canvas.  Whereabouts unknown.
-datePublished: '2015-12-07T13:09:32.077Z'
-dateModified: '2015-12-07T13:08:28.142Z'
+datePublished: '2016-01-13T13:12:51.259Z'
+dateModified: '2015-12-10T21:33:05.526Z'
 title: Thinking of You
 author: []
 sourcePath: _posts/2015-11-29-thinking-of-you.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Title:  Thinking of You.  Oil on canvas.  Whereabouts unknow.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4460f453e0634ef9c2ac364ab7d8339ddefe1a89.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dab70aa3e783dd07b1ec1431b7fc6d9a032f908.jpg)
