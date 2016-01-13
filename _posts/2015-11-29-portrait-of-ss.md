@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Oil on canvas.  This painting is FOR SALE.  To inquire:  Sketch47@hotmail.com'
-datePublished: '2015-12-06T05:20:06.635Z'
-dateModified: '2015-12-06T05:19:58.753Z'
+datePublished: '2016-01-13T13:14:23.063Z'
+dateModified: '2016-01-06T14:41:25.472Z'
 title: "Portrait of 'SS'"
 author: []
 sourcePath: _posts/2015-11-29-portrait-of-ss.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Title:  Portrait of 'SS'.   This painting is FOR SALE.  To inquire:  Sketch47@hotmail.com
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2db425fc24dea19121e8081c1c67bef1c32b3f01.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f6b0e7eb48f1dbefcaf098418d63c7e28700671.jpg)
