@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Digital photo of the model 'AK'"
-datePublished: '2016-01-13T13:10:09.511Z'
-dateModified: '2015-12-10T21:28:15.864Z'
+datePublished: '2016-01-16T22:45:27.251Z'
+dateModified: '2016-01-13T13:44:10.432Z'
 title: Photo Reference for a Painting.
 author: []
 sourcePath: _posts/2015-12-09-photo-reference-for-a-painting.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Digital study for an oil painting.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c518532f501beaaf629eaec47197ab0168d2a771.jpg)
+![From a series of images photographed near Black Hawk, Colorado](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5051f94954c59428bca61e14b486be2611713d86.jpg)
