@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Graphite pencil on paper.
-datePublished: '2016-01-16T22:45:50.474Z'
-dateModified: '2015-12-22T20:16:42.024Z'
+datePublished: '2016-01-16T22:46:36.359Z'
+dateModified: '2016-01-16T22:45:50.474Z'
 title: 'Graphite Study for the Painting:  Rita and Rudy in the Moonlight.'
 author: []
 authors: []
