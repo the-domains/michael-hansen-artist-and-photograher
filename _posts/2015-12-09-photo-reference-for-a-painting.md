@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Digital photo of the model 'AK'"
-datePublished: '2016-01-16T22:46:36.221Z'
-dateModified: '2016-01-16T22:45:50.165Z'
+datePublished: '2016-01-16T22:47:04.929Z'
+dateModified: '2016-01-16T22:46:36.221Z'
 title: Photo Reference for a Painting.
 author: []
 sourcePath: _posts/2015-12-09-photo-reference-for-a-painting.md
