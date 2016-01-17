@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digital photo reference for an oil painting.  From a series of photos captured near Black Hawk, Colorado.'
-datePublished: '2016-01-16T22:45:27.185Z'
-dateModified: '2016-01-16T22:44:52.410Z'
+datePublished: '2016-01-16T22:45:50.162Z'
+dateModified: '2016-01-16T22:45:27.185Z'
 author: []
 title: Study of the Model.
 authors: []
