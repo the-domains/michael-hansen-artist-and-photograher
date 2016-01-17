@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Oil on Canvas.  This painting has SOLD.
-datePublished: '2016-01-13T21:21:02.769Z'
-dateModified: '2016-01-13T13:41:49.631Z'
+datePublished: '2016-01-16T20:45:32.121Z'
+dateModified: '2016-01-16T20:39:41.635Z'
 title: "Portrait of 'M'"
 author: []
 sourcePath: _posts/2016-01-01-portrait-of-m.md
@@ -25,4 +25,4 @@ _type: Article
 Michael Hansen - Artist and Photographer
 
 Visitors must be 18 to enter.  NUDITY and ADULT themes.
-![Viewers must be 18 to enter.  NUDITY and ADULT themes.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a82db58e15199f14f311b196b36af9a7b913c9be.jpg)
+![Viewers must be 18 to enter.  NUDITY and ADULT themes.  This painting has been SOLD.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb4c22d275c5fe299808c5a4734b99323836b7e2.jpg)
