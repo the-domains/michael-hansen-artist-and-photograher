@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital photo from a series used for oil painting reference
-datePublished: '2016-01-16T22:43:49.992Z'
-dateModified: '2016-01-16T21:29:27.272Z'
+datePublished: '2016-01-16T22:44:09.235Z'
+dateModified: '2016-01-16T22:43:49.992Z'
 title: "Study of the Model 'CQ'"
 author: []
 authors: []
