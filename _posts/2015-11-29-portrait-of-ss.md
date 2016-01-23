@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oil on canvas.  This painting is FOR SALE.  To inquire:  Sketch47@hotmail.com'
-datePublished: '2016-01-23T17:45:11.404Z'
+datePublished: '2016-01-23T17:45:11.475Z'
 dateModified: '2016-01-23T17:44:45.765Z'
 title: "For Sale - Title: 'Portrait of SS'  To Inquire:  Sketch47@hotmail.com"
 author: []
