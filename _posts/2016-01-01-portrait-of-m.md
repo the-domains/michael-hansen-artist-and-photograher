@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Oil on Canvas.  This painting has SOLD.
-datePublished: '2016-01-23T16:51:25.232Z'
+datePublished: '2016-01-23T16:51:25.263Z'
 dateModified: '2016-01-23T16:50:23.161Z'
 title: "SOLD - Title: Portrait of 'M'"
 author: []
