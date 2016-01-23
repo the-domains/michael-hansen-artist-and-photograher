@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digital photo reference for an oil painting.  Image captured near Estes Park, Colorado.'
-datePublished: '2016-01-17T04:27:18.750Z'
-dateModified: '2016-01-17T04:26:01.448Z'
+datePublished: '2016-01-23T18:38:20.553Z'
+dateModified: '2016-01-17T04:32:40.197Z'
 author: []
 title: Portrait of the Model
+sourcePath: _posts/2016-01-17-portrait-of-the-model.md
+published: true
 authors: []
 publisher:
   name: tumblr.com
   domain: www.tumblr.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-portrait-of-the-model.md
-published: true
 url: portrait-of-the-model/index.html
 _context: 'http://schema.org'
 _type: Article
