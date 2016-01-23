@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital photo reference
-datePublished: '2016-01-23T18:30:25.719Z'
-dateModified: '2016-01-23T18:30:03.378Z'
+datePublished: '2016-01-23T18:36:52.623Z'
+dateModified: '2016-01-23T18:36:45.101Z'
 title: Model Reference 2
 author: []
+sourcePath: _posts/2016-01-23-model-reference-2.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-model-reference-2.md
-published: true
 url: model-reference-2/index.html
 _type: Blurb
 
 ---
 Model Reference 2
-![Digital Photo Reference](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba371160-3ef7-42b7-b73c-2c0eb513e435.jpg)
+![Digital Photo Reference](https://s3-us-west-2.amazonaws.com/the-grid-img/p/faeaca5065655428521eb8dd0cf0fed0cbf23325.jpg)
