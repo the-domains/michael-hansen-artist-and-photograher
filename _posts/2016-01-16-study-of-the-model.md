@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digital photo reference for an oil painting.  From a series of photos captured near Black Hawk, Colorado.'
-datePublished: '2016-01-24T08:12:42.379Z'
-dateModified: '2016-01-24T08:12:22.114Z'
+datePublished: '2016-01-24T09:09:46.287Z'
+dateModified: '2016-01-24T09:09:29.576Z'
 author: []
 title: Model Reference 1
 sourcePath: _posts/2016-01-16-study-of-the-model.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 Model Reference 1
-![On location near Black Hawk, Colorado](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2189a5291d8207bcc3a465c466b678500433c4d.jpg)
+![On location near Black Hawk, Colorado](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bca1426e3b48ddd0fd2f9cd8f0357c697410cdb.jpg)
