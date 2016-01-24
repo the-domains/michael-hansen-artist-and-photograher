@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: This painting has SOLD.  Oil on canvas.
-datePublished: '2016-01-24T21:32:36.228Z'
-dateModified: '2016-01-24T21:32:18.413Z'
+datePublished: '2016-01-24T21:44:17.033Z'
+dateModified: '2016-01-24T21:35:06.679Z'
 title: "Portrait of 'M'"
 author: []
 sourcePath: _posts/2016-01-24-portrait-of-m.md
