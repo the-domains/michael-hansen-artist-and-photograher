@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Oil on Canvas.  Whereabouts unknown.
-datePublished: '2016-01-24T09:13:02.751Z'
+datePublished: '2016-01-24T09:13:02.771Z'
 dateModified: '2016-01-24T09:12:54.176Z'
 title: Thinking of You
 author: []
