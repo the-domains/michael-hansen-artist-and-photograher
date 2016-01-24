@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital photo reference
-datePublished: '2016-01-24T08:09:38.175Z'
-dateModified: '2016-01-24T08:09:29.654Z'
+datePublished: '2016-01-24T09:04:03.700Z'
+dateModified: '2016-01-24T09:03:51.989Z'
 title: Model Reference 3
 author: []
 sourcePath: _posts/2016-01-24-model-study-3.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Model Reference 3
-![Digital photo reference for an oil painting](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a21b7eee43a2e18658f635c3245ad40831c638d6.jpg)
+![Digital photo reference for an oil painting](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9fe15237de9a45f49127e25a6439811d5ecd8ff.jpg)
