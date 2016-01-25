@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
         <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.hansenartstudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 22:03:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 00:20:02 GMT</lastBuildDate>
+        <atom:link href="http://www.hansenartstudio.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portrait of the Model 'M']]></title>
-            <description><![CDATA[<article><h1>Portrait of the Model 'M'</h1><p>Visitors must be 18 to enter.  NUDITY and ADULT themes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80f80cab327d8fc1ec13e1e93fe47b1d886184e2.jpg"></article>]]></description>
-            <link>undefinedportrait-of-the-model-m/index.html</link>
+            <description><![CDATA[<article><h1>Portrait of the Model 'M'</h1><p>Michael Hansen - Artist and Photographer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1075d16ad2d00e3a734a9e46fed6f098ddf7d9c.jpg"></article>]]></description>
+            <link>http://www.hansenartstudio.com/portrait-of-the-model-m/index.html</link>
             <guid isPermaLink="false">3c391cda-bb0c-43f5-a414-cabb6289d291</guid>
-            <pubDate>Sun, 24 Jan 2016 22:03:50 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 00:20:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
