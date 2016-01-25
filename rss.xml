@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
+        <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 00:32:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Hansen - Artist and Photographer]]></title>
+            <description><![CDATA[<article><h1>Michael Hansen - Artist and Photographer</h1><p>Visitors must be 18 to enter.  NUDITY and ADULT themes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cb3251ebe5436a69fee69a3de9dc26b32492216.jpg"></article>]]></description>
+            <link>undefinedmichael-hansen-artist-and-photographer/index.html</link>
+            <guid isPermaLink="false">32783188-5f0f-4a3c-b9ca-452f70f27ec0</guid>
+            <pubDate>Mon, 25 Jan 2016 00:32:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
