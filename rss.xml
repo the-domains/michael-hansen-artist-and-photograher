@@ -4,14 +4,14 @@
         <description><![CDATA[Michael Hansen - Artist and Photographer]]></description>
         <link>http://www.hansenartstudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 00:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 00:24:27 GMT</lastBuildDate>
         <atom:link href="http://www.hansenartstudio.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portrait of the Model 'M']]></title>
-            <description><![CDATA[<article><h1>Portrait of the Model 'M'</h1><p>Michael Hansen - Artist and Photographer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7dab60b6109ac30333dff9c8a26b3d11b011b9f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Portrait of the Model 'M'</h1><p>Michael Hansen - Artist and Photographer</p></article>]]></description>
             <link>http://www.hansenartstudio.com/portrait-of-the-model-m/index.html</link>
             <guid isPermaLink="false">3c391cda-bb0c-43f5-a414-cabb6289d291</guid>
-            <pubDate>Mon, 25 Jan 2016 00:22:16 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 00:24:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
