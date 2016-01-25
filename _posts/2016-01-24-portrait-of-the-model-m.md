@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This painting has SOLD.  '
-datePublished: '2016-01-25T00:20:01.580Z'
+datePublished: '2016-01-25T00:20:01.611Z'
 dateModified: '2016-01-25T00:19:05.716Z'
 title: "Portrait of the Model 'M'"
 author: []
