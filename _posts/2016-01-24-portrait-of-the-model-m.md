@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This painting has SOLD.  '
-datePublished: '2016-01-25T00:20:01.611Z'
-dateModified: '2016-01-25T00:19:05.716Z'
+datePublished: '2016-01-25T00:22:16.807Z'
+dateModified: '2016-01-25T00:22:11.103Z'
 title: "Portrait of the Model 'M'"
 author: []
 sourcePath: _posts/2016-01-24-portrait-of-the-model-m.md
@@ -25,4 +25,4 @@ _type: Article
 Michael Hansen - Artist and Photographer
 
 Visitors must be 18 to enter.  NUDITY and ADULT themes.
-![Visitors must be 18 to enter.  NUDITY and ADULT themes](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1075d16ad2d00e3a734a9e46fed6f098ddf7d9c.jpg)
+![Visitors must be 18 to enter.  NUDITY and ADULT themes](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7dab60b6109ac30333dff9c8a26b3d11b011b9f.jpg)
