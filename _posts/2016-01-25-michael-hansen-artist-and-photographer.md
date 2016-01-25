@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: (SOLD)   Oil on Canvas
-datePublished: '2016-01-25T00:40:18.909Z'
-dateModified: '2016-01-25T00:39:46.041Z'
-title: Michael Hansen - Artist and Photographer
+datePublished: '2016-01-25T00:43:26.997Z'
+dateModified: '2016-01-25T00:43:04.858Z'
+title: "(Sold) - Portrait of 'M'"
 author: []
 sourcePath: _posts/2016-01-25-michael-hansen-artist-and-photographer.md
 published: true
