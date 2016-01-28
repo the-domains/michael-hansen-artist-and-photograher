@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Digital photo reference
-datePublished: '2016-01-24T21:43:36.187Z'
-dateModified: '2016-01-24T21:43:14.340Z'
+datePublished: '2016-01-28T19:34:58.443Z'
+dateModified: '2016-01-28T19:34:29.295Z'
 title: Model Reference 2
 author: []
 sourcePath: _posts/2016-01-23-model-reference-2.md
@@ -19,8 +19,8 @@ publisher:
   url: null
   favicon: null
 url: model-reference-2/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 Model Reference 2
-![Digital Photo Reference](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebe57c6af7f78336efbd851c9b314cae7280e99d.jpg)
+![Digital Photo Reference](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3886edb4cb0ee483eb8a9a60965689c9e5a75d0b.jpg)
