@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital photo reference
-datePublished: '2016-01-29T18:12:21.703Z'
+datePublished: '2016-01-29T18:12:21.742Z'
 dateModified: '2016-01-29T18:12:00.511Z'
 title: Model Reference 2
 author: []
