@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital photo reference
-datePublished: '2016-01-29T18:12:21.742Z'
-dateModified: '2016-01-29T18:12:00.511Z'
+datePublished: '2016-01-30T22:20:20.037Z'
+dateModified: '2016-01-30T22:19:52.703Z'
 title: Model Reference 2
 author: []
 sourcePath: _posts/2016-01-23-model-reference-2.md
@@ -22,5 +22,5 @@ url: model-reference-2/index.html
 _type: WebPage
 
 ---
-Model Reference 2
-![Digital Photo Reference](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f7d83a0e5a3fd0967d78635c71c3dad1b7752c.jpg)
+Model Reference \#2
+![Digital Photo Reference](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c835437dc2d1dda916c0ad263151afc4ffc8bdb5.jpg)
