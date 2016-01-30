@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Digital photo '
-datePublished: '2016-01-30T22:25:59.280Z'
+datePublished: '2016-01-30T22:25:59.308Z'
 dateModified: '2016-01-30T22:25:40.678Z'
 title: In the Studio
 author: []
