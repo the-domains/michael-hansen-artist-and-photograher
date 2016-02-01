@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Red and Blue Pencils.
-datePublished: '2016-02-01T04:23:05.756Z'
+datePublished: '2016-02-01T04:23:05.825Z'
 dateModified: '2016-02-01T04:22:58.708Z'
 title: "Drawing for the Oil Painting:  'Smiling Woman in a Blue Coat'"
 author: []
