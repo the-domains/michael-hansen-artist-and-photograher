@@ -1,26 +1,26 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Oil on Canvas
-datePublished: '2016-01-16T22:44:09.049Z'
-dateModified: '2016-01-16T21:22:32.969Z'
-title: Blue Shoes
+datePublished: '2016-02-08T06:48:10.170Z'
+dateModified: '2016-02-08T06:48:02.569Z'
+title: "Title:  'Blue Shoes'  $500.00"
 author: []
+sourcePath: _posts/2016-01-16-blue-shoes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-blue-shoes.md
-published: true
 url: blue-shoes/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-Blue Shoes
-![Oil on Canvas](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34ea84ef-2c9b-4b9e-ae66-dbd1a88e5ed9.jpg)
+Title:  'Blue Shoes'  Oil on Canvas.  To Inquire:  Sketch47@hotmail.com
+![Oil on Canvas](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a403d9cf5a24acf9e6d6a8589d08b188dc26d9d.jpg)
