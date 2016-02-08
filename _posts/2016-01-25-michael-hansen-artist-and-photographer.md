@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: (SOLD)   Oil on Canvas
-datePublished: '2016-02-01T04:30:30.312Z'
-dateModified: '2016-02-01T04:30:14.353Z'
-title: "(Sold) - Portrait of 'M'"
+datePublished: '2016-02-08T06:45:44.267Z'
+dateModified: '2016-02-08T06:45:39.032Z'
+title: "Title:  'Portrait of M'  SOLD - $1500.00"
 author: []
 sourcePath: _posts/2016-01-25-michael-hansen-artist-and-photographer.md
 published: true
