@@ -3,12 +3,12 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Red and Blue Pencils.
-datePublished: '2016-02-01T04:27:11.664Z'
-dateModified: '2016-02-01T04:26:54.359Z'
-title: "Drawing for the Oil Painting:  'Smiling Woman in a Blue Coat'"
+datePublished: '2016-02-08T06:43:58.313Z'
+dateModified: '2016-02-08T06:43:55.225Z'
+title: "Title:  \"Study for the Oil Painting - 'Smiling Woman in a Blue Coat'  $400.00"
 author: []
 sourcePath: _posts/2016-01-25-study-for-the-oil-painting-smiling-woman-in-a-blue-coat.md
 published: true
@@ -22,5 +22,5 @@ url: drawing-for-the-oil-painting-smiling-woman-in-a-blue-coat/index.html
 _type: WebPage
 
 ---
-Visitors must be 18 to enter.  NUDITY and ADULT themes.
+Title:  'Study for the Oil Painting - 'Smiling Woman in a Blue Coat'  To Inquire:  Sketch47@hotmail.com
 ![Smiling Woman in a Blue Coat - (study for the oil painting)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fad95dc69457f0f4875039f1fa5134a4d74191ef.jpg)
